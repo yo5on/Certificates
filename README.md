@@ -83,7 +83,7 @@ A personal archive of certificates I have completed, from online courses and tec
 
 | Document | Location |
 |---|---|
-| [Resume](Resume/resume1.pdf) | `Resume/` |
+| [Resume](Resume/Resume.pdf) | `Resume/` |
 
 The `Internship/` folder is reserved for internship certificates and is currently empty.
 
