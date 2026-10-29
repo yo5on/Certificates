@@ -9,7 +9,7 @@
 
 ---
 
-A personal archive of certificates I have completed, from online courses and technical certifications to hackathons and events. Each entry links to the original certificate PDF.
+<div align="center"><samp>A personal archive of completed courses, technical certifications, hackathons and activities. Entries link to their certificate documents where available.</samp></div>
 
 ## Contents
 
@@ -105,5 +105,12 @@ Certificates/
 
 ## Author
 
-**Yoson**  
-GitHub: https://github.com/yo5on
+<div align="center">
+
+---
+
+<samp><strong>Yoson</strong> · software, AI/ML and technical learning</samp>
+
+<samp><a href="https://github.com/yo5on">github.com/yo5on</a> · <a href="https://www.linkedin.com/in/yo5on">LinkedIn</a></samp>
+
+</div>
