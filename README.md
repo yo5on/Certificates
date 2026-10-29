@@ -3,7 +3,7 @@
 
 <samp>courses · certifications · hackathons · activities</samp>
 
-**[Repository](https://github.com/yo5on/Certificates)**
+<samp>**[Repository](https://github.com/yo5on/Certificates)**</samp>
 
 </div>
 
@@ -85,7 +85,7 @@
 |---|---|
 | [Resume](Resume/Resume.pdf) | `Resume/` |
 
-The `Internship/` folder is reserved for internship certificates and is currently empty.
+<samp>The `Internship/` folder is reserved for internship certificates and is currently empty.</samp>
 
 ## Repository Structure
 
